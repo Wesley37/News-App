@@ -1,1 +1,2 @@
-let apiKey = '08926e6a3f5da6ab14461e017dd29ff0'
+// Enter your API key
+let apiKey = ''
